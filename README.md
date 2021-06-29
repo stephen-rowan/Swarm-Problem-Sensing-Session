@@ -6,3 +6,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/Catalyst-Swarm/Swarm-Problem-Sensing-Session)](https://github.com/Catalyst-Swarm/Swarm-Problem-Sensing-Session/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Catalyst-Swarm/Swarm-Problem-Sensing-Session)](https://github.com/Catalyst-Swarm/TSwarm-Problem-Sensing-Session)
 [![GitHub milestones](https://img.shields.io/github/milestones/open/Catalyst-Swarm/Swarm-Problem-Sensing-Session?style=flat-square)](https://github.com/Catalyst-Swarm/Swarm-Problem-Sensing-Session)
+
+## Miro Board
+
+https://miro.com/app/board/o9J_l_ETdso=/?moveToWidget=3074457360445583187&cot=14
